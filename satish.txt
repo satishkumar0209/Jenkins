@@ -1,0 +1,6 @@
+rem @echo off
+set projectlocation=C:\Users\COMPAQ\workspace\Selenium First
+set classpath=%projectlocation%\bin;%projectlocation%\libs\*
+set projectlocationwithxml="C:\Users\COMPAQ\workspace\Selenium First\testng.xml"
+java org.testng.TestNG %projectlocationwithxml%
+pause
