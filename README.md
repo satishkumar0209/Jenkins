@@ -1,4 +1,4 @@
-# How to run selenium programme through jenkins
+# How to Configure selenium programme through jenkins
 ### Prerequisites 
 *   [Selenium jar files](http://docs.seleniumhq.org/download/) 
 *   [Selinium standalone server jar](http://docs.seleniumhq.org/download/) 
