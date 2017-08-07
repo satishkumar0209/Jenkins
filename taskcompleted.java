@@ -36,11 +36,13 @@ public class taskcompleted
 		
 		driver.get("https://dribbble.com/session/new");
 		
-		driver.findElement(By.id("login")).sendKeys("testingmyswaasth@gmail.com");
+		driver.findElement(By.id("login")).sendKeys("Here set your mail id");
 		
-		driver.findElement(By.id("password")).sendKeys("123456");
+		driver.findElement(By.id("password")).sendKeys("Here set your password");
 		
 		driver.findElement(By.xpath(".//*[@type='submit']")).click();
+		String URL=driver.getCurrentUrl();
+		Assert.assertEquals(URL, "https://dribbble.com/");
 		
 		//Here pass the direct url 
 		
@@ -57,9 +59,15 @@ public class taskcompleted
 			
 			driver.findElement(By.xpath(actualimgxpath)).click();
 			
-			Thread.sleep(2000);
+			WebDriverWait wait = new WebDriverWait(driver, 10);
+			 
+			WebElement element = wait.until(ExpectedConditions.elementToBeClickable(By.xpath("//img[contains(@alt,'like')]")));
 			
 			driver.findElement(By.xpath(".//*[@class='stats-label']")).click();
+			
+			WebDriverWait wait = new WebDriverWait(driver, 10);
+		        WebElement element = wait.until(ExpectedConditions.elementToBeClickable(By.xpath("//img[contains(@alt,'liked')]")));
+			
 			
 			Random rand = new Random();
 			
