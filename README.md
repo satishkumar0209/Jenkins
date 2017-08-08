@@ -37,7 +37,7 @@ Open notepad file write here like this:
 <p> Now to run this file in command prompt 
 
 ### How to run batch file command prompt 
-    <p> Double click on batch file
+<p> Double click on batch file
 
 
 
