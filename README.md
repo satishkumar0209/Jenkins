@@ -24,4 +24,11 @@
 
 
 ### Set up your batch file
+Open notepad file write here like this:
+<p>rem @echo off
+<p>set projectlocation=Give her project location folder
+<p>set classpath=%projectlocation%\bin;%projectlocation%\Give here your new created lib folder name\*
+<p>set projectlocationwithxml="C:\Users\COMPAQ\workspace\Selenium First\testng.xml"
+<p>java org.testng.TestNG %projectlocationwithxml%
+<p>pause
 
