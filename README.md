@@ -22,3 +22,6 @@
 <p>* testng files
 <p>* poi files</p>
 
+
+### Set up your batch file
+
