@@ -14,7 +14,7 @@
 
 
 ### Set up your folder 
-<p> Go to the folder location
+<p> Go to your project folder location
 <p>create one new folder rename as lib
 <p>In lib folder save the all libraries  files like
 <p>* selenium jar files
