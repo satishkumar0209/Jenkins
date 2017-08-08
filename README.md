@@ -11,6 +11,9 @@
   <p>Move to Testng tab.click on convert into testng file.
   <p>click on ok button.
 <p>Automatically testng file is created in your project folder.</p>
+
+
+### Set up your folder 
 <p> Go to the folder location
 <p>create one new folder rename as lib
 <p>In lib folder save the all libraries  files like
