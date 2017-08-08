@@ -40,13 +40,11 @@ ava org.testng.TestNG %projectlocationwithxml%
 
 pause
 ```
-
-
 Save it has "name.Bat"(Here double qutations is required).
- Now to run this file in command prompt </p>
+Now to run this file in command prompt </p>
 
 ### How to run batch file command prompt 
-<p> Double click on batch file
+>Double click on batch file
 
 
 
