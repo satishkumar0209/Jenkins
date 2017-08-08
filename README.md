@@ -25,18 +25,20 @@
 
 ### Set up your batch file
 Open notepad file write here like this:
-<p>*These five lines of code should mandatory
+<p>*These five lines of code should mandatory</p>
 This is a block of code
-```java
+
+````java
+
 set projectlocation=Give her project location folderp
 
 set classpath=%projectlocation%\bin;%projectlocation%\Give here your new created lib folder name\*
 
-3.set projectlocationwithxml="C:\Users\COMPAQ\workspace\Selenium First\testng.xml"
+set projectlocationwithxml="C:\Users\COMPAQ\workspace\Selenium First\testng.xml"
 
-4java org.testng.TestNG %projectlocationwithxml%
+ava org.testng.TestNG %projectlocationwithxml%
 
-5.pause
+pause
 ```
 
 
