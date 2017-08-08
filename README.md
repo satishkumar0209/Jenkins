@@ -13,9 +13,9 @@
 <p>Automatically testng file is created in your project folder.</p>
 <p> Go to the folder location
 <p>create one new folder rename as lib
-<p>In lib folder save the all libraries like
-*selenium jar files
-* selenium standalone server jars
-* testng files
-* poi files</p>
+<p>In lib folder save the all libraries  files like
+<p>* selenium jar files
+<p>* selenium standalone server jars
+<p>* testng files
+<p>* poi files</p>
 
