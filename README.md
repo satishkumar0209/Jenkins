@@ -42,9 +42,8 @@ pause
 ```
 
 
-<p>Save it has "name.Bat"(Here double qutations is required)
-
-<p> Now to run this file in command prompt 
+<p>Save it has "name.Bat"(Here double qutations is required)</p>
+<p> Now to run this file in command prompt </p>
 
 ### How to run batch file command prompt 
 <p> Double click on batch file
