@@ -10,5 +10,12 @@
   <p>Right click on your project.
   <p>Go to Testng bar.click on convert into testng file.
   <p>click on ok button.
-<p>One testng file is created in your project folder.</p>
+<p>Automatically testng file is created in your project folder.</p>
+<p> Go to the folder location
+<p>create one new folder rename as lib
+<p>In lib folder save the all libraries like
+*selenium jar files
+* selenium standalone server jars
+* testng files
+* poi files</p>
 
