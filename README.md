@@ -8,7 +8,7 @@
 
 ### How to convert java programe in to testng.xml  
   <p>Right click on your project.
-  <p>Go to Testng bar.click on convert into testng file.
+  <p>Move to Testng tab.click on convert into testng file.
   <p>click on ok button.
 <p>Automatically testng file is created in your project folder.</p>
 <p> Go to the folder location
