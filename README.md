@@ -25,7 +25,7 @@
 
 ### Set up your batch file
 Open notepad file write here like this:
-<p>*These five lines of code should mandatory</p>
+<p>*These block of code should be mandatory</p>
 This is a block of code
 
 ````java
@@ -42,8 +42,8 @@ pause
 ```
 
 
-<p>Save it has "name.Bat"(Here double qutations is required)</p>
-<p> Now to run this file in command prompt </p>
+Save it has "name.Bat"(Here double qutations is required).
+ Now to run this file in command prompt </p>
 
 ### How to run batch file command prompt 
 <p> Double click on batch file
