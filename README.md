@@ -34,3 +34,11 @@ Open notepad file write here like this:
 
 <p>Save it has "name.Bat"(Here double qutations is required)
 
+<p> Now to run this file in command prompt 
+
+### Set up your batch file
+
+
+
+
+
