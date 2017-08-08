@@ -28,11 +28,15 @@ Open notepad file write here like this:
 <p>*These five lines of code should mandatory
 This is a block of code
 ```java
-<p>1.set projectlocation=Give her project location folderp
-<p>2.set classpath=%projectlocation%\bin;%projectlocation%\Give here your new created lib folder name\*
-<p>3.set projectlocationwithxml="C:\Users\COMPAQ\workspace\Selenium First\testng.xml"
-<p>4java org.testng.TestNG %projectlocationwithxml%
-<p>5.pause
+set projectlocation=Give her project location folderp
+
+set classpath=%projectlocation%\bin;%projectlocation%\Give here your new created lib folder name\*
+
+3.set projectlocationwithxml="C:\Users\COMPAQ\workspace\Selenium First\testng.xml"
+
+4java org.testng.TestNG %projectlocationwithxml%
+
+5.pause
 ```
 
 
