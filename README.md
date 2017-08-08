@@ -32,3 +32,5 @@ Open notepad file write here like this:
 <p>java org.testng.TestNG %projectlocationwithxml%
 <p>pause
 
+<p>Save it has "name.Bat"(Here double qutations is required)
+
